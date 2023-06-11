@@ -1,1 +1,5 @@
-# This is a repo for my new GCP DevOps Project
+
+#github-example
+
+- This application is written in python
+- It shall be deployed on GKE
