@@ -11,6 +11,6 @@ steps:
   - run
   - --filename=gke.yml
   - --image=gcr.io/$PROJECT_ID/gcpdevops
-  - --location=europe-central2
+  - --location=europe-central2-b
   - --cluster=gcp-learning-autopilot-cluster-1
   - --namespace=gcp-devops-prod
